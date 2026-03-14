@@ -78,19 +78,20 @@
 # 🔥 Featured Projects
 
 ## 🚔 Operation Sentinel
+🏆 **Winner — Hack de Science ’26**
 
 Scalable **police deployment and incident management dashboard**
 
 **Tech Stack:** Next.js, Node.js, MongoDB, Leaflet.js
 
-* Zone configuration and threat visualization with heatmaps
-* Automated 30-day scheduling engine with 3-shift rosters
-* Dynamic personnel reallocation during real-time incidents
+- Zone configuration and threat visualization with heatmaps  
+- Automated 30-day scheduling engine with 3-shift rosters  
+- Dynamic personnel reallocation during real-time incidents  
 
-🔗 Live
+🔗 Live  
 https://modisarkar-hackathon.vercel.app/
 
-🔗 Repository
+🔗 Repository  
 https://github.com/Ruchika-Sinha0629/modisarkar-hackathon
 
 ---
